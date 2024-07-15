@@ -1,0 +1,9 @@
+step,processing_time,error_rate
+receive_application,5,1
+initial_screening,10,2
+background_check,20,5
+interview_scheduling,15,3
+interview_conduct,30,4
+offer_preparation,25,2
+offer_extension,10,1
+onboarding,40,5
